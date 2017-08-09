@@ -16,8 +16,7 @@ namespace HelloWorld
             //pull request 2
             //new demo
             //rebasing
-
-            //Merging again
+            //rebasing again
         }
     }
 }
