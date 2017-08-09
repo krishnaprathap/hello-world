@@ -10,6 +10,7 @@ namespace HelloWorld
     {
         static void Main(string[] args)
         {
+            //3rebase
             //3merge
             Console.WriteLine("Hello Git!");
             Console.ReadLine();
