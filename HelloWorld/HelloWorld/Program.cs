@@ -12,7 +12,8 @@ namespace HelloWorld
         {
             Console.WriteLine("Hello Git!");
             Console.ReadLine();
-            //yes merge  hhh
+            //yes merge
+            //pull request 2
         }
     }
 }
